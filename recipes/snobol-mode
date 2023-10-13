@@ -1,0 +1,1 @@
+(snobol-mode :repo "ehawkvu/snobol-mode" :fetcher github)
